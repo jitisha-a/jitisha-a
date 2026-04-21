@@ -2,7 +2,7 @@
 
 hello!
 
-i'm a y1 computer engineering undergradaute @NUS. i enjoy learning new technologies and building cool stuff! check out profile to learn more about the things i have worked on :)
+i'm a y1 computer engineering undergradaute @NUS. i enjoy learning new technologies and building cool stuff! check out my profile to learn more about the things i have worked on :)
 
 ## ⚡️ Tech Stack
 

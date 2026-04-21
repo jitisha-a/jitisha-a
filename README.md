@@ -17,9 +17,6 @@ i'm a y1 computer engineering undergradaute @NUS. i enjoy learning new technolog
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Nav2](https://img.shields.io/badge/Nav2-0A66C2?style=for-the-badge&logo=https://nav2.org/)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge)
-![Cartographer](https://img.shields.io/badge/Cartographer-6A1B9A?style=for-the-badge)
-![SLAM](https://img.shields.io/badge/SLAM-2E7D32?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -31,5 +28,9 @@ i'm a y1 computer engineering undergradaute @NUS. i enjoy learning new technolog
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Jetson Orin Nano](https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
 ![CAN Bus](https://img.shields.io/badge/CAN%20Bus-FF8F00?style=for-the-badge)
-![Bare Metal](https://img.shields.io/badge/Bare--Metal-424242?style=for-the-badge)
-![PCB Design](https://img.shields.io/badge/PCB%20Design-00897B?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium-E60023?style=for-the-badge)
+
+## Socials
+
+#### LinkedIn ~ 
+#### Instagram ~ check out my photography account! [@jitisha_clicks](https://www.instagram.com/jitisha_clicks?igsh=YWl2NHFqOGs2cnV1)

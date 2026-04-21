@@ -32,5 +32,5 @@ i'm a y1 computer engineering undergradaute @NUS. i enjoy learning new technolog
 
 ## Socials
 
-#### LinkedIn ~ 
+#### LinkedIn ~ [click_here!](in/jitisha-arora-65097628a)
 #### Instagram ~ check out my photography account! [@jitisha_clicks](https://www.instagram.com/jitisha_clicks?igsh=YWl2NHFqOGs2cnV1)

@@ -16,7 +16,7 @@ i'm a y1 computer engineering undergradaute @NUS. i enjoy learning new technolog
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-0A66C2?style=for-the-badge)
+![Nav2](https://img.shields.io/badge/Nav2-0A66C2?style=for-the-badge&logo=https://raw.githubusercontent.com/ros-planning/navigation2/main/doc/images/nav2_logo.png)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge)
 ![Cartographer](https://img.shields.io/badge/Cartographer-6A1B9A?style=for-the-badge)
 ![SLAM](https://img.shields.io/badge/SLAM-2E7D32?style=for-the-badge)
